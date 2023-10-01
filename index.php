@@ -15,8 +15,60 @@
 <body>
 
     <div class="mx-auto mt-3 bg-light" style="width:400px;">
-        <div class="text-center height_equals_width">
-            <div class="w-100 h-100 rounded-3" style="display:block;color:maroon;padding-top:40%;background-color:lightgrey;">
+        <div class="height_equals_width">
+            <div class="text-center w-100 h-100 rounded-3" style="display:block;color:maroon;padding-top:40%;background-color:lightgrey;">
+                <div class="spinner-border" role="status">
+                </div>
+            </div>
+            <img class="d-block rounded-3 height_equals_width" src="images/<?php echo $image_name;?>?dynamic_url_string=<?php echo rand(1111111111,9999999999).uniqid();?>" style="opacity:0;" onload="this.style.opacity = 1;this.previousElementSibling.style.display='none';" loading="lazy">                                               
+        </div>
+        <div class="mt-3 text-center">
+            Any Text
+        </div>
+    </div>
+
+     <div class="mx-auto mt-3 bg-light" style="width:400px;">
+        <div class="height_equals_width">
+            <div class="text-center w-100 h-100 rounded-3" style="display:block;color:maroon;padding-top:40%;background-color:lightgrey;">
+                <div class="spinner-border" role="status">
+                </div>
+            </div>
+            <img class="d-block rounded-3 height_equals_width" src="images/<?php echo $image_name;?>?dynamic_url_string=<?php echo rand(1111111111,9999999999).uniqid();?>" style="opacity:0;" onload="this.style.opacity = 1;this.previousElementSibling.style.display='none';" loading="lazy">                                               
+        </div>
+        <div class="mt-3 text-center">
+            Any Text
+        </div>
+    </div>
+
+     <div class="mx-auto mt-3 bg-light" style="width:400px;">
+        <div class="height_equals_width">
+            <div class="text-center w-100 h-100 rounded-3" style="display:block;color:maroon;padding-top:40%;background-color:lightgrey;">
+                <div class="spinner-border" role="status">
+                </div>
+            </div>
+            <img class="d-block rounded-3 height_equals_width" src="images/<?php echo $image_name;?>?dynamic_url_string=<?php echo rand(1111111111,9999999999).uniqid();?>" style="opacity:0;" onload="this.style.opacity = 1;this.previousElementSibling.style.display='none';" loading="lazy">                                               
+        </div>
+        <div class="mt-3 text-center">
+            Any Text
+        </div>
+    </div>
+
+    < <div class="mx-auto mt-3 bg-light" style="width:400px;">
+        <div class="height_equals_width">
+            <div class="text-center w-100 h-100 rounded-3" style="display:block;color:maroon;padding-top:40%;background-color:lightgrey;">
+                <div class="spinner-border" role="status">
+                </div>
+            </div>
+            <img class="d-block rounded-3 height_equals_width" src="images/<?php echo $image_name;?>?dynamic_url_string=<?php echo rand(1111111111,9999999999).uniqid();?>" style="opacity:0;" onload="this.style.opacity = 1;this.previousElementSibling.style.display='none';" loading="lazy">                                               
+        </div>
+        <div class="mt-3 text-center">
+            Any Text
+        </div>
+    </div>
+
+     <div class="mx-auto mt-3 bg-light" style="width:400px;">
+        <div class="height_equals_width">
+            <div class="text-center w-100 h-100 rounded-3" style="display:block;color:maroon;padding-top:40%;background-color:lightgrey;">
                 <div class="spinner-border" role="status">
                 </div>
             </div>
@@ -28,8 +80,8 @@
     </div>
 
     <div class="mx-auto mt-3 bg-light" style="width:400px;">
-        <div class="text-center height_equals_width">
-            <div class="w-100 h-100 rounded-3" style="display:block;color:maroon;padding-top:40%;background-color:lightgrey;">
+        <div class="height_equals_width">
+            <div class="text-center w-100 h-100 rounded-3" style="display:block;color:maroon;padding-top:40%;background-color:lightgrey;">
                 <div class="spinner-border" role="status">
                 </div>
             </div>
@@ -40,9 +92,9 @@
         </div>
     </div>
 
-    <div class="mx-auto mt-3 bg-light" style="width:400px;">
-        <div class="text-center height_equals_width">
-            <div class="w-100 h-100 rounded-3" style="display:block;color:maroon;padding-top:40%;background-color:lightgrey;">
+     <div class="mx-auto mt-3 bg-light" style="width:400px;">
+        <div class="height_equals_width">
+            <div class="text-center w-100 h-100 rounded-3" style="display:block;color:maroon;padding-top:40%;background-color:lightgrey;">
                 <div class="spinner-border" role="status">
                 </div>
             </div>
@@ -53,9 +105,9 @@
         </div>
     </div>
 
-    <div class="mx-auto mt-3 bg-light" style="width:400px;">
-        <div class="text-center height_equals_width">
-            <div class="w-100 h-100 rounded-3" style="display:block;color:maroon;padding-top:40%;background-color:lightgrey;">
+     <div class="mx-auto mt-3 bg-light" style="width:400px;">
+        <div class="height_equals_width">
+            <div class="text-center w-100 h-100 rounded-3" style="display:block;color:maroon;padding-top:40%;background-color:lightgrey;">
                 <div class="spinner-border" role="status">
                 </div>
             </div>
@@ -66,9 +118,9 @@
         </div>
     </div>
 
-    <div class="mx-auto mt-3 bg-light" style="width:400px;">
-        <div class="text-center height_equals_width">
-            <div class="w-100 h-100 rounded-3" style="display:block;color:maroon;padding-top:40%;background-color:lightgrey;">
+     <div class="mx-auto mt-3 bg-light" style="width:400px;">
+        <div class="height_equals_width">
+            <div class="text-center w-100 h-100 rounded-3" style="display:block;color:maroon;padding-top:40%;background-color:lightgrey;">
                 <div class="spinner-border" role="status">
                 </div>
             </div>
@@ -79,9 +131,9 @@
         </div>
     </div>
 
-    <div class="mx-auto mt-3 bg-light" style="width:400px;">
-        <div class="text-center height_equals_width">
-            <div class="w-100 h-100 rounded-3" style="display:block;color:maroon;padding-top:40%;background-color:lightgrey;">
+     <div class="mx-auto mt-3 bg-light" style="width:400px;">
+        <div class="height_equals_width">
+            <div class="text-center w-100 h-100 rounded-3" style="display:block;color:maroon;padding-top:40%;background-color:lightgrey;">
                 <div class="spinner-border" role="status">
                 </div>
             </div>
@@ -92,9 +144,9 @@
         </div>
     </div>
 
-    <div class="mx-auto mt-3 bg-light" style="width:400px;">
-        <div class="text-center height_equals_width">
-            <div class="w-100 h-100 rounded-3" style="display:block;color:maroon;padding-top:40%;background-color:lightgrey;">
+     <div class="mx-auto mt-3 bg-light" style="width:400px;">
+        <div class="height_equals_width">
+            <div class="text-center w-100 h-100 rounded-3" style="display:block;color:maroon;padding-top:40%;background-color:lightgrey;">
                 <div class="spinner-border" role="status">
                 </div>
             </div>
@@ -105,9 +157,9 @@
         </div>
     </div>
 
-    <div class="mx-auto mt-3 bg-light" style="width:400px;">
-        <div class="text-center height_equals_width">
-            <div class="w-100 h-100 rounded-3" style="display:block;color:maroon;padding-top:40%;background-color:lightgrey;">
+     <div class="mx-auto mt-3 bg-light" style="width:400px;">
+        <div class="height_equals_width">
+            <div class="text-center w-100 h-100 rounded-3" style="display:block;color:maroon;padding-top:40%;background-color:lightgrey;">
                 <div class="spinner-border" role="status">
                 </div>
             </div>
@@ -118,9 +170,9 @@
         </div>
     </div>
 
-    <div class="mx-auto mt-3 bg-light" style="width:400px;">
-        <div class="text-center height_equals_width">
-            <div class="w-100 h-100 rounded-3" style="display:block;color:maroon;padding-top:40%;background-color:lightgrey;">
+     <div class="mx-auto mt-3 bg-light" style="width:400px;">
+        <div class="height_equals_width">
+            <div class="text-center w-100 h-100 rounded-3" style="display:block;color:maroon;padding-top:40%;background-color:lightgrey;">
                 <div class="spinner-border" role="status">
                 </div>
             </div>
@@ -131,9 +183,9 @@
         </div>
     </div>
 
-    <div class="mx-auto mt-3 bg-light" style="width:400px;">
-        <div class="text-center height_equals_width">
-            <div class="w-100 h-100 rounded-3" style="display:block;color:maroon;padding-top:40%;background-color:lightgrey;">
+     <div class="mx-auto mt-3 bg-light" style="width:400px;">
+        <div class="height_equals_width">
+            <div class="text-center w-100 h-100 rounded-3" style="display:block;color:maroon;padding-top:40%;background-color:lightgrey;">
                 <div class="spinner-border" role="status">
                 </div>
             </div>
@@ -144,9 +196,9 @@
         </div>
     </div>
 
-    <div class="mx-auto mt-3 bg-light" style="width:400px;">
-        <div class="text-center height_equals_width">
-            <div class="w-100 h-100 rounded-3" style="display:block;color:maroon;padding-top:40%;background-color:lightgrey;">
+     <div class="mx-auto mt-3 bg-light" style="width:400px;">
+        <div class="height_equals_width">
+            <div class="text-center w-100 h-100 rounded-3" style="display:block;color:maroon;padding-top:40%;background-color:lightgrey;">
                 <div class="spinner-border" role="status">
                 </div>
             </div>
@@ -157,9 +209,9 @@
         </div>
     </div>
 
-    <div class="mx-auto mt-3 bg-light" style="width:400px;">
-        <div class="text-center height_equals_width">
-            <div class="w-100 h-100 rounded-3" style="display:block;color:maroon;padding-top:40%;background-color:lightgrey;">
+     <div class="mx-auto mt-3 bg-light" style="width:400px;">
+        <div class="height_equals_width">
+            <div class="text-center w-100 h-100 rounded-3" style="display:block;color:maroon;padding-top:40%;background-color:lightgrey;">
                 <div class="spinner-border" role="status">
                 </div>
             </div>
@@ -170,61 +222,9 @@
         </div>
     </div>
 
-    <div class="mx-auto mt-3 bg-light" style="width:400px;">
-        <div class="text-center height_equals_width">
-            <div class="w-100 h-100 rounded-3" style="display:block;color:maroon;padding-top:40%;background-color:lightgrey;">
-                <div class="spinner-border" role="status">
-                </div>
-            </div>
-            <img class="d-block rounded-3 height_equals_width" src="images/<?php echo $image_name;?>?dynamic_url_string=<?php echo rand(1111111111,9999999999).uniqid();?>" style="opacity:0;" onload="this.style.opacity = 1;this.previousElementSibling.style.display='none';" loading="lazy">                                               
-        </div>
-        <div class="mt-3 text-center">
-            Any Text
-        </div>
-    </div>
-
-    <div class="mx-auto mt-3 bg-light" style="width:400px;">
-        <div class="text-center height_equals_width">
-            <div class="w-100 h-100 rounded-3" style="display:block;color:maroon;padding-top:40%;background-color:lightgrey;">
-                <div class="spinner-border" role="status">
-                </div>
-            </div>
-            <img class="d-block rounded-3 height_equals_width" src="images/<?php echo $image_name;?>?dynamic_url_string=<?php echo rand(1111111111,9999999999).uniqid();?>" style="opacity:0;" onload="this.style.opacity = 1;this.previousElementSibling.style.display='none';" loading="lazy">                                               
-        </div>
-        <div class="mt-3 text-center">
-            Any Text
-        </div>
-    </div>
-
-    <div class="mx-auto mt-3 bg-light" style="width:400px;">
-        <div class="text-center height_equals_width">
-            <div class="w-100 h-100 rounded-3" style="display:block;color:maroon;padding-top:40%;background-color:lightgrey;">
-                <div class="spinner-border" role="status">
-                </div>
-            </div>
-            <img class="d-block rounded-3 height_equals_width" src="images/<?php echo $image_name;?>?dynamic_url_string=<?php echo rand(1111111111,9999999999).uniqid();?>" style="opacity:0;" onload="this.style.opacity = 1;this.previousElementSibling.style.display='none';" loading="lazy">                                               
-        </div>
-        <div class="mt-3 text-center">
-            Any Text
-        </div>
-    </div>
-
-    <div class="mx-auto mt-3 bg-light" style="width:400px;">
-        <div class="text-center height_equals_width">
-            <div class="w-100 h-100 rounded-3" style="display:block;color:maroon;padding-top:40%;background-color:lightgrey;">
-                <div class="spinner-border" role="status">
-                </div>
-            </div>
-            <img class="d-block rounded-3 height_equals_width" src="images/<?php echo $image_name;?>?dynamic_url_string=<?php echo rand(1111111111,9999999999).uniqid();?>" style="opacity:0;" onload="this.style.opacity = 1;this.previousElementSibling.style.display='none';" loading="lazy">                                               
-        </div>
-        <div class="mt-3 text-center">
-            Any Text
-        </div>
-    </div>
-
-    <div class="mx-auto mt-3 bg-light" style="width:400px;">
-        <div class="text-center height_equals_width">
-            <div class="w-100 h-100 rounded-3" style="display:block;color:maroon;padding-top:40%;background-color:lightgrey;">
+     <div class="mx-auto mt-3 bg-light" style="width:400px;">
+        <div class="height_equals_width">
+            <div class="text-center w-100 h-100 rounded-3" style="display:block;color:maroon;padding-top:40%;background-color:lightgrey;">
                 <div class="spinner-border" role="status">
                 </div>
             </div>
